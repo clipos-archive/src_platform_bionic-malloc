@@ -1,0 +1,8 @@
+# CLIP ChangeLog for sys-libs/bionic-malloc
+
+*bionic-malloc-20120619 (17 Jul 2012)
+
+  17 Jul 2012; Vincent Strubel <clipos@ssi.gouv.fr>
+  bionic-malloc-20120619.ebuild:
+  Initial import. Extract of the malloc & Co. functionality 
+  from Android's bionic libc, based on latest git.
